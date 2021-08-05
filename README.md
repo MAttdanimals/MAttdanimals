@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MAttdanimals
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MAttdanimals 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to make video games
+- 💞️ I’m looking to collaborate on mostly anything
+- 📫 How to reach me places
 
 <!---
 MAttdanimals/MAttdanimals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
