@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MAttdanimals 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to make video games
 - 💞️ I’m looking to collaborate on mostly anything
 - 📫 How to reach me places
 
